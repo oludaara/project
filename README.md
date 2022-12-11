@@ -6,8 +6,8 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png">
-Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/oludaara/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
+<img src="https://https://github.com/oludaara/project/blob/master/screenshots/99-banner.png">
+Find how the project looks in <b>screenshots folder</b> Or <a href="https://https://github.com/oludaara/project/tree/master/screenshots">click here</a>
 
 # Technologies Used
 <ul>
@@ -34,7 +34,7 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 </ol>
 
 # Authors
-## Kaushik Jadhav
+## OLUWASEGUN DARA
 <ul>
 <li>Github:https://github.com/oludaara</li>
 </ul>
