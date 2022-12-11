@@ -6,8 +6,8 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://https://https://github.com/oludaara/project/tree/main/screenshots/99-banner.png">
-Find how the project looks in <b>screenshots folder</b> Or <a href="https://https://https://github.com/oludaara/project/tree/main/screenshots">click here</a>
+<img src="https://https://github.com/oludaara/project/tree/main/screenshots/99-banner.png">
+Find how the project looks in <b>screenshots folder</b> Or <a href="https://https://github.com/oludaara/project/tree/main/screenshots">click here</a>
 
 # Technologies Used
 <ul>
